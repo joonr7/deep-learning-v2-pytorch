@@ -1,0 +1,5 @@
+Cat_Dog_data/*
+__pycache__
+checkpoint.pth
+train/*
+test1/*
